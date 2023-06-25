@@ -1,16 +1,7 @@
 # flutter_responsive_login_ui
 
-A new Flutter project.
+Responsive log in UI in Flutter.
+## 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="/assets/Screenshot%20from%202023-06-25%2011-36-40.png" alt="Allen" width="300">
+<img src="/assets/Screenshot%20from%202023-06-25%2011-37-26.png" alt="Allen" width="300">
